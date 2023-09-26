@@ -2,6 +2,7 @@
 <figure id="Mermaidvoorbeeld">
 
 ```mermaid
+
 gantt
     title Roadmap geo-standaarden
     dateFormat YYYY-M
