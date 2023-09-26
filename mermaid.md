@@ -8,6 +8,7 @@ gantt
     dateFormat YYYY-M
     axisFormat Q%q %Y
     tickInterval 3month
+
     section ONT
         Consultatie GeoPackage and Spatial Schema   :done,      2023-07, 3M
         Update PTOLU Geo-standaarden                :active,    2023-10, 6M
