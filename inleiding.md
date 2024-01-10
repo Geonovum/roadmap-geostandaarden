@@ -1,7 +1,8 @@
-# Niet-normatieve deel
+# Inleiding
 
-Bijvoorbeeld een introductie is niet normatief.
+**Doel**
 
-<p class="note" title="index">
-Dit hoofdstuk is toegevoegd met `class="informative"` in `config.js`.
-</p>
+De roadmap geostandaarden geeft inzicht in de ontwikkelingen op het gebied van
+geo-standaarden in de tijd.
+
+**Leeswijzer**
