@@ -31,7 +31,7 @@ gericht zijn op het verkennen van nieuwe terreinen in de vorm van pilots. Tevens
 omvat het de periodieke updates van algemene documenten en de consultaties over
 opkomende standaarden.
 
-**Domeinstandaarden (DS):** Deze sectie richt zich op mijlpalen en activiteiten
+**Domeinstandaarden (DM):** Deze sectie richt zich op mijlpalen en activiteiten
 die specifiek zijn voor de ontwikkeling en versie-updates van domein-specifieke
 standaarden onder NEN3610. Voorbeelden hiervan zijn standaarden zoals IMEV
 (Informatiemodel Externe Veiligheid), IMGeo (Informatiemodel Geografie) en IMOW
