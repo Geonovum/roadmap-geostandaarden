@@ -58,12 +58,12 @@ let respecConfig = {
         name: "Arnoud de Boer",
         company: "Geonovum",
         companyURL: "https://www.geonovum.nl",
-      }
-	        {
+      },
+	  {
         name: "Monique van Scherpenzeel",
         company: "Geonovum",
         companyURL: "https://www.geonovum.nl",
-      }
+      },
     ],
   //neem hier de URL van de github repository op waar het respec document in staat
   github: "https://github.com/Geonovum/roadmap-geostandaarden",
