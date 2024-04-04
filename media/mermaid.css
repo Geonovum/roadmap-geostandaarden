@@ -3,16 +3,15 @@
         width: 90%;
       }
 
-      #mySvgId .section0 { /* ONT */
+      #mySvgId .section0,
+      #mySvgId .section2{ /* ONT */
         fill: #f0f6ff !important;
       }
       #mySvgId .section1 { /* ONT */
-        fill: #000 !important;
-      }
-
-      #mySvgId .section2 { /* ONT */
         fill: #fff !important;
       }
+
+    
 
       /* To do */
       #mySvgId .task0,#mySvgId .task1,#mySvgId .task2 {
