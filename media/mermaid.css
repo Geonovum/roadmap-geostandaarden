@@ -1,4 +1,47 @@
-.mermaid .section0 {
-  fill: black !important;
-  font-weight: 700;
-}
+      #mySvgId {
+        height: 90%;
+        width: 90%;
+      }
+
+      #mySvgId .section0 { /* ONT */
+        fill: #f0f6ff !important;
+      }
+      #mySvgId .section1 { /* ONT */
+        fill: #000 !important;
+      }
+
+      #mySvgId .section2 { /* ONT */
+        fill: #fff !important;
+      }
+
+      /* To do */
+      #mySvgId .task0,#mySvgId .task1,#mySvgId .task2 {
+        fill: #0085C6 !important;
+        stroke: #0085C6 !important;
+      }
+
+      #mySvgId .taskText0,#mySvgId .taskText1,#mySvgId .taskText2 {
+        color: #000 !important; 
+      }
+
+      /* Doing */
+      #mySvgId .active0,
+      #mySvgId .active1,
+      #mySvgId .active2 {
+          fill: #8DC63F !important;
+          stroke: #8DC63F !important;
+      }
+      #mySvgId .activeText0,#mySvgId .activeText1,#mySvgId .activeText2 {
+        color: #fff !important;
+      }
+      /* Done */
+      #mySvgId .done0,
+      #mySvgId .done1,
+      #mySvgId .done2 {        
+        fill: #64686B !important;
+        stroke: #64686B !important
+      }
+
+      #mySvgId .doneText0,#mySvgId .doneText1,#mySvgId .doneText2 {
+        color: #ffF !important;
+      }  
