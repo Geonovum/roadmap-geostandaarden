@@ -1,3 +1,3 @@
-[Roadmap geo-standaarden](https://geonovum.github.io/roadmap-geostandaarden/)
+Roadmap geo-standaarden
 
 Deze repository wordt niet meer gebruikt. 
